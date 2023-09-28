@@ -1,6 +1,6 @@
-<h1 <h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Telegram+bot+Hotels+find+API" alt="Typing SVG" /></a></h2>
+ <h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Telegram+bot+Hotels+find+API" alt="Typing SVG" /></a></h2>
 
-[![Telegram URL](https://www.dampftbeidir.de/mediafiles/tpl/icon-telegram.png)](https://t.me/hotelsAPI_bot) 
+<h1 align="center"> [![Telegram URL](https://www.dampftbeidir.de/mediafiles/tpl/icon-telegram.png)](https://t.me/hotelsAPI_bot) 
 </h1>
 
 ***
